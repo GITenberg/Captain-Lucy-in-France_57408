@@ -1,5 +1,5 @@
 _repo: Captain-Lucy-in-France_57408
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Coleman, Ralph P. (Ralph Pallen)
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1968
     gutenberg_agent_id: '6922'
     url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: archival
+  image_path: 57408-h/images/cover.jpg
 creator:
   author:
     agent_name: Havard, Aline
     gutenberg_agent_id: '49343'
     url: http://www.gutenberg.org/2009/agents/49343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57408#Captain-Lucy-in-France
 gutenberg_issued: '2018-06-27'
 gutenberg_type: Text
 identifiers:
